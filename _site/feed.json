@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vincent Hwang",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Homepage",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2021/04/30/hello-world",
+            "title": "Hello World 2.0",
+            "summary": "Inspiration behind version 2 of my website and blog.",
+            "content_text": "Welcome to version 2.0 of my blog!In the summer of 2017, during my first co-op term, I completed my first coding side project: a personal blog and website built using Jekyll and Ruby. This came after I was first introduced to programming by a few of my friends during my first year of undergrad at the University of Waterloo.       Screenshots from version 1.0 of my websiteFor me, it was a big achievement. From knowing pretty much nothing about coding as I entered university, I learned to master the command line, install packages, manage repositories through Git, and write Ruby code. I remember feeling proud, and I hoped it would be the start of many more projects to come.However, throughout the rest of my undergraduate in which I studied Civil Engineering, I was more or less always busy. Lectures often lasted from 8:30am to 5pm, five days a week. I spent my remaining time finishing projects and coursework, leading programs at the Chinese Christian Fellowship, and playing intramural sports. I had little time left for coding and side projects. Eventually, I even stopped updating my website.In the back of my mind, though, I knew always wanted to move towards the software and technology sector. I enjoyed learning new algorithms and writing code. Through coding, I possessed the power to change the world at my fingertips.I am launching version 2.0 of my blog to document my personal journey post-graduation. I am hoping to break in to the software industry, preferably working on data science and artificial intelligence. It may be a long and hard road, but I am eager to begin the next chapter of my life.",
+            "content_html": "<p>Welcome to version 2.0 of my blog!</p><p>In the summer of 2017, during my first co-op term, I completed my first coding side project: a personal blog and website built using Jekyll and Ruby. This came after I was first introduced to programming by a few of my friends during my first year of undergrad at the University of Waterloo.</p><p float=\"left\">  <img src=\"/assets/img/helloworld1.png\" width=\"350\" />  <img src=\"/assets/img/helloworld2.png\" width=\"350\" />   <figcaption>Screenshots from version 1.0 of my website</figcaption></p><p>For me, it was a big achievement. From knowing pretty much nothing about coding as I entered university, I learned to master the command line, install packages, manage repositories through Git, and write Ruby code. I remember feeling proud, and I hoped it would be the start of many more projects to come.</p><p>However, throughout the rest of my undergraduate in which I studied Civil Engineering, I was more or less always busy. Lectures often lasted from 8:30am to 5pm, five days a week. I spent my remaining time finishing projects and coursework, leading programs at the Chinese Christian Fellowship, and playing intramural sports. I had little time left for coding and side projects. Eventually, I even stopped updating my website.</p><p>In the back of my mind, though, I knew always wanted to move towards the software and technology sector. I enjoyed learning new algorithms and writing code. Through coding, I possessed the power to change the world at my fingertips.</p><p>I am launching version 2.0 of my blog to document my personal journey post-graduation. I am hoping to break in to the software industry, preferably working on data science and artificial intelligence. It may be a long and hard road, but I am eager to begin the next chapter of my life.</p>",
+            "url": "http://localhost:4000/2021/04/30/hello-world",
+            
+            
+            
+            "tags": ["personal","blog"],
+            
+            "date_published": "2021-04-30T00:00:00-07:00",
+            "date_modified": "2021-04-30T00:00:00-07:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
