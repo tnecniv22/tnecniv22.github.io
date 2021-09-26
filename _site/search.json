@@ -9,6 +9,17 @@
       "date"     : "2021-04-30 00:00:00 -0700",
       "description" : "Inspiration behind version 2 of my website and blog."
 
+    } ,
+  
+    {
+
+      "title"    : "Injustice and Discrimination in Harry Potter",
+      "url"      : "/2020/10/25/potter1",
+      "category" : "",
+      "tags"     : "harry potter, essay, discrimination",
+      "date"     : "2020-10-25 00:00:00 -0700",
+      "description" : "Essay Describing Injustice and Discrimination in the Harry Potter Series by JK Rowling"
+
     } 
   
 ]
