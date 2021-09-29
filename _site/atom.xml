@@ -4,13 +4,26 @@
  <title>Vincent Hwang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-09-25T19:05:49-07:00</updated>
+ <updated>2021-09-28T18:27:31-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>TEST</title>
+   <link href="http://localhost:4000/2021/09/25/vids1"/>
+   <updated>2021-09-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2021/09/25/vids1</id>
+   <content type="html">&lt;p&gt;Testing Youtube Embed:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BTnAgsnnpcM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Testing Spotify Embed:&lt;/p&gt;
+&lt;iframe src=&quot;https://open.spotify.com/embed/track/12ad0oPQaR6X6Jcoqz8rcz?theme=0&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hello World 2.0</title>
@@ -43,7 +56,14 @@
    <link href="http://localhost:4000/2020/10/25/potter1"/>
    <updated>2020-10-25T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/10/25/potter1</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;09/2021 - This essay was written in November 2020 for a course I took at Waterloo.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Note 09/2021 - This essay was written for ENGL 108P, a course I took at Waterloo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Suggested Listening:&lt;/p&gt;
+  &lt;iframe src=&quot;https://open.spotify.com/embed/album/6zeHM5CV0CjcS0K8ouWE4N&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;In the Harry Potter novels, the readers are presented with characters of distinct backgrounds and species - from muggles to wizards, from humans to werewolves. From the very beginning of the series, animosity between different groups of characters is evident. Harry goes through abusive treatment from the Dursley family simply because he is a wizard. At Hogwarts, Draco vilifies Hermione because she is from a non-magical background. In addition to conflicts between humans, the reader is exposed to injustices the wizarding world commits against other humanoid creatures, such as goblins, giants, and house elves. In a comment on the class discussion board in Module 3, Luke Fahrer describes the routine mistreatment of gnomes by “one of the most heroic and morally virtuous families in the series” as pointing towards the “lack of sympathy” ingrained within the wizarding society. Expounding on Fahrer’s point, Rowling uses the mistreatment of characters different in appearance from the common witch and wizard to bring to light prevalent issues that are faced in our own world today.&lt;/p&gt;
 
@@ -73,7 +93,7 @@
 
 &lt;p&gt;Schott, Christine. “The House Elf Problem: Why Harry Potter is More Relevant Now than Ever.” The Midwest Quarterly, vol. 61, no. 2, 2020, pp. 259-272.&lt;/p&gt;
 
-&lt;p&gt;Stypczynski, Brent. “Wolf in Professor’s Clothing: J. K. Rowling’s Werewolf as Educator.” Journal of the Fantastic in the Arts., vol. 20, no. 1, M.E. Sharpe,, Jan. 2009, pp. 57–69.&lt;/p&gt;
+&lt;p&gt;Stypczynski, Brent. “Wolf in Professor’s Clothing: J. K. Rowling’s Werewolf as Educator.” Journal of the Fantastic in the Arts., vol. 20, no. 1, M.E. Sharpe, Jan. 2009, pp. 57–69.&lt;/p&gt;
 </content>
  </entry>
  
