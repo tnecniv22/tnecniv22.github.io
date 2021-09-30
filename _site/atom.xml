@@ -4,7 +4,7 @@
  <title>Vincent Hwang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-09-28T18:27:31-07:00</updated>
+ <updated>2021-09-30T16:30:29-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,15 +13,15 @@
 
  
  <entry>
-   <title>TEST</title>
+   <title>Anime Art Collection</title>
    <link href="http://localhost:4000/2021/09/25/vids1"/>
    <updated>2021-09-25T00:00:00-07:00</updated>
    <id>http://localhost:4000/2021/09/25/vids1</id>
-   <content type="html">&lt;p&gt;Testing Youtube Embed:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BTnAgsnnpcM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;p&gt;Evangelion:&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BTnAgsnnpcM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Testing Spotify Embed:&lt;/p&gt;
-&lt;iframe src=&quot;https://open.spotify.com/embed/track/12ad0oPQaR6X6Jcoqz8rcz?theme=0&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Sakuga:&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j5ZvnqgvfjU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -48,6 +48,60 @@
 
 &lt;p&gt;I am launching version 2.0 of my blog to document my personal journey post-graduation. I am hoping to break in to the software industry, preferably working on data science and artificial intelligence. It may be a long and hard road, but I am eager to begin the next chapter of my life.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Harry Potter and its Christian Influences</title>
+   <link href="http://localhost:4000/2020/12/14/potter2"/>
+   <updated>2020-12-14T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2020/12/14/potter2</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Suggested Listening: Bach’s Mass in B Minor, one of the greatest music compositions ever.&lt;/p&gt;
+  &lt;iframe src=&quot;https://open.spotify.com/embed/album/3HdmIB3Wzcd7bFDdsgaIbp?theme=0&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Christianity has had and continues to have a profound influence on our society. From its roots in the Roman province of Judea early in the first century, Christian teaching has so strongly shaped the western world that it was once widely called Christendom. Our calendar marks the years since Jesus Christ. Some of the most popular statutory holidays, Christmas and Easter, draw their origins from Jesus’ birth and resurrection, respectively. Many classic pieces of literature, from John Milton’s &lt;em&gt;Paradise Lost&lt;/em&gt; to CS Lewis’ &lt;em&gt;Chronicles of Narnia&lt;/em&gt;, allude heavily to biblical stories. Milton’s epic recounts the fall of man as depicted in Genesis; Lewis’ &lt;em&gt;The Lion, The Witch, and The Wardrobe&lt;/em&gt; is a retelling of the story of Jesus Christ (McGrath). While western society has moved away from its Christian roots towards secularism, so has western literature. Phillip Pullman’s &lt;em&gt;His Dark Materials&lt;/em&gt; trilogy, for example, is explicitly atheist and anti-church (Parker). JK Rowling’s Harry Potter series, another highly popular work, finds itself sandwiched between Narnia and His Dark Materials. It neither promotes Christianity, nor does it oppose it. Nevertheless, the Potter series does contain significant Christian influence. Rowling draws significantly from Christian ethics, tradition, and scripture to form her wizarding world.&lt;/p&gt;
+
+&lt;p&gt;Principles of Christian morality and ethics are evident throughout the Harry Potter novels. St Paul the Apostle, in his letter to the Galatians, writes that the fruit of the Holy Spirit (Christian virtues) are “love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control” (&lt;em&gt;English Standard Version&lt;/em&gt;, Gal. 5.22-23). These are the traits that Rowling promotes throughout the entire series. Love, the greatest virtue (1 Cor 13.13), is preached by Albus Dumbledore multiple times. In the &lt;em&gt;Philosophers Stone,&lt;/em&gt; he explains that Lily Potter’s act of sacrificial love was the sole reason that Harry had survived Voldemort’s attack. In the &lt;em&gt;Half-Blood Prince,&lt;/em&gt; Dumbledore exclaims to Harry:”You are protected, in short, by your ability to love!” (&lt;em&gt;Half Blood Prince&lt;/em&gt; 424). The other virtues are similarly encouraged as well. Snape’s Occlumency lessons teach Harry the importance of managing his emotions, which is a form of self-control. Hermione’s S.P.E.W. campaign to free the house-elves of slavery is done out of the goodness of her heart. Ron displays immense loyalty to his friends and his house, showing faithfulness. Biblical virtues characterize Rowling’s protagonists.&lt;/p&gt;
+
+&lt;p&gt;Not only does Rowling draw from biblical morality to characterize her protagonists, she does so for her antagonists as well. Voldemort and his Death Eaters are the antithesis to Harry and his friends. Whereas Harry’s group operates with virtue, Voldemort’s group operates out of the opposite. They torture and kill for the sake of their own gain. Voldemort, out of his lust for immortality, murders the innocent to split his soul and create horcruxes. Bellatrix and other Death Eaters torture Neville’s parents into insanity. In biblical terms, this behavior is sin. St. Paul describes the sinful as those who are “full of envy, murder, strife, deceit”, and “maliciousness” (Rom 1.29). This describes the Death Eaters quite well. Harry and Voldemort’s contrasting moralities mirror those found in &lt;em&gt;The City of God&lt;/em&gt;, a work authored by St. Augustine, a 4th century Christian theologian (Wolosky 192). &lt;em&gt;The City of God&lt;/em&gt; contrasts two cities – the earthly city and the heavenly city. While the earthly city is characterized by the love of self – resulting in power, lust, and greed, the heavenly city is characterized by the love of God, leading to love, commitment, and mutual service. Says Augustine: “In the one, the princes and the nations it subdues are ruled by the love of ruling; in the other, the princes and the subjects serve one another in love” (14:28). Wolosky associates the earthly city with Voldemort’s society – a society where one is prepared, even eager, to put another down for the sake of personal gain. He associates the heavenly city with Harry, his friends, and Dumbledore’s army – people who are ready to sacrifice themselves out of love for their friends and loved ones. The entire moral framework in Harry Potter is taken directly from the Christian framework.&lt;/p&gt;
+
+&lt;p&gt;Additionally, allusions to Biblical concepts are scattered throughout the wizarding world. In Christian tradition, the soul is the “essential life” of a person, the “one thing that [one] must never lose (Bloom). Jesus himself said, “what does it profit a man to gain the whole world and forfeit his soul?” (Mark 8.36). Rowling alludes to the biblical idea of the soul in her creation of the horcrux, considered the darkest form of magic in the wizarding world. Horcruxes are made by the act of splitting the soul. This is accomplished by committing murder, the “supreme act of evil” (&lt;em&gt;Half Blood Prince&lt;/em&gt; 412). The creation of a horcrux tarnishes a soul beyond repair; thus Voldemort, in creating them, forfeits his soul and gives up his humanity for power and immortality. His physical appearance, seemingly less human as he transitions from Tom Riddle to the Dark Lord, reinforces this loss of humanity. What is also notable is that Voldemort split his soul not once, but seven times. In Christianity, the number seven represents perfection, completeness and wholeness (Smyth). Dumbledore echoes this sentiment, explaining to Harry that seven is “the most powerfully magical number” (&lt;em&gt;Half Blood Prince&lt;/em&gt; 418), and therefore a seven-part soul would be extremely appealing to Voldemort.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, Rowling directly quotes scripture. When Harry visits the graveyard at Godric’s Hollow in the &lt;em&gt;Deathly Hallows,&lt;/em&gt; the inscriptions on the two tombstones are Bible verses. The first epitaph, on Kendra and Ariana Dumbledore’s gravestone, is a direct quotation of Matthew 6:21: “where your treasure is, there your heart is also” (&lt;em&gt;Deathly Hallows&lt;/em&gt; 265). The second, on Lily and James Potter’s tombstone, is from 1 Corinthians 15:26: “the last enemy that shall be destroyed is death” (267). Theologian Peter Ciacco suggests a significant relationship between the verses and Harry’s character and actions in the novels. The first verse, Matthew 6:21, is representative of Harry’s circumstances. The wizarding world, as opposed to the muggle world, is where Harry’s true treasures are (Ciacco 38). His treasure goes beyond his material wealth found in Gringott’s vault; everything that makes life meaningful to Harry – Hogwarts, his friends, and his family, is found in the wizarding world. Thus, it is where his heart truly lies. The second verse, 1 Corinthians 15:26, has bearing on the plot of the final novel. At the climax of the series, during the final battle between Harry and Voldemort, “Harry resolves to die in order to destroy death” (Ciacco 39). He accepts that he, along with the final horcrux inside him, “must die” in order for Voldemort to die as well (&lt;em&gt;Deathly Hallows&lt;/em&gt; 566). Harry willingly accepting his own death allows him to acquire the three deathly hallows.&lt;/p&gt;
+
+&lt;p&gt;Perhaps most significant of all is the clear allusion to the Christian gospel during the final battle. The gospel, (Greek &lt;em&gt;euangelion&lt;/em&gt;) is the story of the redemption of the world through Christ’s death and resurrection. It teaches that all people have sinned and fallen short of God’s standard, and as a result, deserve eternal punishment and separation from God. The centre of the gospel and of the entire Bible is when Jesus, the perfect Son of God, takes upon himself the sins and punishment of his people, in order that they might reconciled to God and gain eternal life. Jesus willingly laid down his own life at the cross and rose from the grave on the third day, defeating sin, death, and Satan once and for all. Rowling’s allusion to the gospel is evident in the &lt;em&gt;Deathly Hallows&lt;/em&gt;. After Harry discovers that he is the last horcrux, he understands that he must die in order to defeat Voldemort. It is through announcing his intention: “I am about to die” (&lt;em&gt;Deathly Hallows&lt;/em&gt; 570), that he is able to obtain one of the hallows, the aptly named resurrection stone, from the golden snitch. Later, when Harry is stuck by the Adavra Kedavra curse, it seems as though Harry did indeed die. Voldemort cries his victory, and all hope seems lost. However, Harry is not actually killed, leading to shouts of “He’s Alive!” (603) when Harry emerges from his silence by protecting Ms. Weasley. Harry appears to die and resurrect in order to defeat Voldemort. As critic Bill McCarron comments, “it is undeniable that Harry is a Christ figure”. It is clear, however, that Rowling’s story is not an allegory of the gospel. Harry does not take the sins of his people upon himself, nor does he actually die and resurrect. Harry does not represent Christ; he is just a simple human being.&lt;/p&gt;
+
+&lt;p&gt;In a society that is leaving Christianity behind, the Harry Potter novels serve as a reminder of its religious roots. Rowling draws significantly from biblical ethics, tradition, and scripture to shape the novels beloved by so many. Most significantly, Rowling alludes to the gospel, a story of redemption, at the climax of the story.Just as Christianity is a religion of hope, so too is Harry Potter a series about hope. As Emily Griesinger concludes, “We gain hope from Harry Potter—hope that in an age where moral goodness does not seem important and where evil is on the rise, one little nerdy person, not terribly smart or good-looking, can make a difference” (478).&lt;/p&gt;
+
+&lt;h4 id=&quot;works-cited&quot;&gt;Works Cited:&lt;/h4&gt;
+
+&lt;p&gt;Augustine. The City of God. Ed. David Knowles. New York: Penguin, 1980.&lt;/p&gt;
+
+&lt;p&gt;Bloom, Jon. “&lt;a href=&quot;https://www.desiringgod.org/articles/the-one-thing-you-must-never-lose&quot;&gt;The One Thing You Must Never Lose.&lt;/a&gt;” Desiring God, 14 Dec. 2020.&lt;/p&gt;
+
+&lt;p&gt;Ciaccio, Peter. “Harry Potter and Christian Theology.” Critical Perspectives on Harry Potter, Routledge, Jan. 2009, pp. 33–46.&lt;/p&gt;
+
+&lt;p&gt;English Standard Version. Bible Gateway. Web. 25 Oct. 2012.&lt;/p&gt;
+
+&lt;p&gt;Griesinger, Emily. “Harry Potter and the ‘Deeper Magic’: Narrating Hope in Children’s Literature.” Christianity and Literature, vol. 51, no. 3, 2002, pp. 455–480.&lt;/p&gt;
+
+&lt;p&gt;McCarron, Bill. “Christianity in Harry Potter and the Deathly Hallows.” Notes on Contemporary Literature., vol. 39, no. 1, West Georgia College, Jan. 2009, pp. 10–12.&lt;/p&gt;
+
+&lt;p&gt;McGrath, Alister. “The Religious Symbolism behind the Chronicles of Narnia.” BBC Religion and Ethics, 2013, wwrn.org/articles/41198/.&lt;/p&gt;
+
+&lt;p&gt;Parker, James. “&lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2019/11/can-atheism-animate-great-fantasy/598351/&quot;&gt;Philip Pullman’s Problem With God.&lt;/a&gt;” &lt;em&gt;The Atlantic&lt;/em&gt;, Atlantic Media Company, 15 Oct. 2019.&lt;/p&gt;
+
+&lt;p&gt;Rowling, J. K. &lt;em&gt;Harry Potter and the Philosopher’s Stone.&lt;/em&gt; London, Bloomsbury, 2014&lt;/p&gt;
+
+&lt;p&gt;Rowling, J. K. &lt;em&gt;Harry Potter and the Half-Blood Prince.&lt;/em&gt; London, Bloomsbury, 2014&lt;/p&gt;
+
+&lt;p&gt;Rowling, J. K. &lt;em&gt;Harry Potter and the Deathly Hallows.&lt;/em&gt; London, Bloomsbury, 2014&lt;/p&gt;
+
+&lt;p&gt;Smyth, Dolores. “&lt;a href=&quot;https://www.christianity.com/wiki/bible/what-is-the-biblical-significance-of-the-number-7.html&quot;&gt;What Is the Biblical Significance of the Number 7?&lt;/a&gt;” &lt;em&gt;Christianity.com&lt;/em&gt;, Salem Web Network, 31 Jan. 2020.&lt;/p&gt;
+
+&lt;p&gt;Wolosky, Shira. “Harry Potter’s Ethical Paradigms: Augustine, Kant, and Feminist Moral Theory.” Children’s Literature, vol. 40, 2012, pp. 191-217,323.&lt;/p&gt;
 </content>
  </entry>
  

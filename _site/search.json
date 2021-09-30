@@ -2,12 +2,12 @@
   
     {
 
-      "title"    : "TEST",
+      "title"    : "Anime Art Collection",
       "url"      : "/2021/09/25/vids1",
       "category" : "",
       "tags"     : "anime, kanye, art",
       "date"     : "2021-09-25 00:00:00 -0700",
-      "description" : ""
+      "description" : "sakuga, art"
 
     } ,
   
@@ -19,6 +19,17 @@
       "tags"     : "personal, blog",
       "date"     : "2021-04-30 00:00:00 -0700",
       "description" : "Inspiration behind version 2 of my website and blog."
+
+    } ,
+  
+    {
+
+      "title"    : "Harry Potter and its Christian Influences",
+      "url"      : "/2020/12/14/potter2",
+      "category" : "",
+      "tags"     : "harry potter, essay, gospel",
+      "date"     : "2020-12-14 00:00:00 -0800",
+      "description" : "Essay Describing Christian Influence in the Harry Potter Series by JK Rowling"
 
     } ,
   
