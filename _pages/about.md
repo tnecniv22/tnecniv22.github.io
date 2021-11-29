@@ -9,9 +9,3 @@ When I was in elementary school, Facebook was still a novelty and the iPhone was
 
 I'm trying to make an effort to read again. To write again. To create instead of consume. I'm hoping that this website will be a little creative outlet for me.
 
-### Links
-+ <a href="/assets/files/CV_Wei Sheng Hwang.pdf">Resume</a>
-+ [LinkedIn](https://www.linkedin.com/in/wshwang/)
-+ [Github](https://github.com/tnecniv22)
-
-
