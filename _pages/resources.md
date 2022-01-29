@@ -13,5 +13,5 @@ Below are some of my favorite websites. Please do click through and read some of
 [The Narwhal](https://thenarwhal.ca/) - Canada's natural world. Victoria.
 
 
-Check out some my super-talented friends:
+Check out some my super-talented friends:\
 [Isukouhai](https://isukouhai.carrd.co/) - Artist
