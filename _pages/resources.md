@@ -11,3 +11,7 @@ Below are some of my favorite websites. Please do click through and read some of
 [Desiring God](https://www.desiringgod.org/) - Finding satisfaction in God. USA.\
 [China Partnership](https://www.chinapartnership.org/blog) - The church in 中国。PR China.\
 [The Narwhal](https://thenarwhal.ca/) - Canada's natural world. Victoria.
+
+
+Check out some my super-talented friends:
+[Isukouhai](https://isukouhai.carrd.co/) - Artist
