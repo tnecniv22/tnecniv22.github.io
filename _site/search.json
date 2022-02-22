@@ -2,12 +2,12 @@
   
     {
 
-      "title"    : "Anime Art Collection",
-      "url"      : "/2021/09/25/vids1",
+      "title"    : "Claymore: Humanity and Justice",
+      "url"      : "/2022/02/20/claymore",
       "category" : "",
-      "tags"     : "anime, kanye, art",
-      "date"     : "2021-09-25 00:00:00 -0700",
-      "description" : "sakuga, art"
+      "tags"     : "anime, jesus",
+      "date"     : "2022-02-20 00:00:00 -0800",
+      "description" : ""
 
     } ,
   
@@ -16,7 +16,7 @@
       "title"    : "Hello World 2.0",
       "url"      : "/2021/04/30/hello-world",
       "category" : "",
-      "tags"     : "personal, blog",
+      "tags"     : "blog",
       "date"     : "2021-04-30 00:00:00 -0700",
       "description" : "Inspiration behind version 2 of my website and blog."
 
@@ -27,7 +27,7 @@
       "title"    : "Harry Potter and its Christian Influences",
       "url"      : "/2020/12/14/potter2",
       "category" : "",
-      "tags"     : "harry potter, essay, gospel",
+      "tags"     : "harry potter, jesus",
       "date"     : "2020-12-14 00:00:00 -0800",
       "description" : "Essay Describing Christian Influence in the Harry Potter Series by JK Rowling"
 
@@ -38,7 +38,7 @@
       "title"    : "Injustice and Discrimination in Harry Potter",
       "url"      : "/2020/10/25/potter1",
       "category" : "",
-      "tags"     : "harry potter, essay, discrimination",
+      "tags"     : "harry potter, human nature",
       "date"     : "2020-10-25 00:00:00 -0700",
       "description" : "Essay Describing Injustice and Discrimination in the Harry Potter Series by JK Rowling"
 

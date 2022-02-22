@@ -3,7 +3,7 @@ layout: post
 title: Hello World 2.0
 description: Inspiration behind version 2 of my website and blog.
 summary: Inspiration behind version 2 of my website and blog.
-tags: [personal, blog]
+tags: [blog]
 ---
 
 Welcome to version 2.0 of my blog!
