@@ -3,9 +3,13 @@ layout: page
 title: About
 ---
 
-你好! I'm Vincent, and welcome to my little corner of the internet. 
+Hey there! If you're here reading this right now, welcome! 
 
-When I was in elementary school, Facebook was still a novelty and the iPhone wasn't invented yet. In my free time, I played outside with my friends and read books. Much has changed since then. Many of my peers have stopped reading and writing, instead spending hours watching Netflix or scrolling through TikTok. I have also been guilty of this, and I have found myself lazier now than I ever was during my childhood years.
+Either you know me well in real life and want to read what I've written, or you don't know me in person and have somehow found your way to my website.
 
-I'm trying to make an effort to read again. To write again. To create instead of consume. I'm hoping that this website will be a little creative outlet for me.
+
+
+
+Here you will find me writing about anime, christianity, and whatever else I feel like writing.
+
 
