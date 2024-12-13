@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Resources
+description: Recommended resources of The Hirijin Blog, by ShengBOY
+summary: 
 ---
 
 Below are some of my favorite websites. Please do click through and read some of the posts. There are some real gems in there! 
@@ -11,6 +13,7 @@ Below are some of my favorite websites. Please do click through and read some of
 [Mere Orthodoxy](https://mereorthodoxy.com/) - Arts, literature, and politics, with a christian lens. USA.\
 [China Partnership](https://www.chinapartnership.org/blog) - The church in 中国。PR China.\
 [The Narwhal](https://thenarwhal.ca/) - Canada's natural world. Victoria.
+[First Things](https://www.firstthings.com/) - Christianity, Aesthetics, and Culture. NYC.
 
 
 Check out some my super-talented friends:\
