@@ -5,6 +5,8 @@ links:
   url: /about
 - title: Resources
   url: /resources
+  - title: Curated
+  url: /curated
 - title: Search
   url: /search
 - title: Rss
